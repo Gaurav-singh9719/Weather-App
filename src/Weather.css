@@ -133,4 +133,7 @@
       width: 100%;
     }
   }
-  
+  .card-body p {
+  font-size: 1.1rem;
+  color: #555;
+}

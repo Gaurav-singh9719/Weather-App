@@ -17,7 +17,7 @@ function App() {
 			</main>
 			<footer>
 				<p>
-					© 2024 Weather App Inc.
+					© 2025 Weather App Inc.
 					All rights reserved.
 				</p>
 			</footer>
